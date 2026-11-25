@@ -1,3 +1,3 @@
-# Figure 1.1, interactive version
+# Moved
 
-Interactive version of Figure 1.1 of Deniz Fraemke's dissertation, *Mapping the Portability of Molecular Indices of Education and Cognition Across German History and Human Development* (Freie Universität Berlin). Drag the figure to turn it.
+The interactive design-space figure of Deniz Fraemke's dissertation is now at <https://denizfraemke.com/dissertation/design-space/>. This page forwards there.
